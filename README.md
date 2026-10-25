@@ -1,3 +1,7 @@
+Live Demo
+Try the app here: [Chat with your PDFs]
+(https://rag-pdf-chat-ipsqxi2nnqqtbezedtxk6b.streamlit.app/)
+
 # Chat with your PDFs
 
 A free AI app that lets you upload one or more PDFs, chat with them, and turn them into study notes. Every answer shows the exact file and page it came from, so you can trust it.
